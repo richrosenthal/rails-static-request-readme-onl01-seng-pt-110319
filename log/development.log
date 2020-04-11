@@ -730,3 +730,10 @@ Processing by Rails::WelcomeController#index as HTML
 Completed 200 OK in 24ms (Views: 7.3ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/about" for 72.95.139.52 at 2020-04-11 19:58:38 +0000
+Processing by StaticController#about as HTML
+  Rendering static/some_page.html.erb
+  Rendered static/some_page.html.erb (0.4ms)
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms)
+
+
